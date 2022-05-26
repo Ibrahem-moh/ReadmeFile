@@ -3,8 +3,8 @@
 # Description
 
 ## Base readme.md file to use for any project.
-[Example badge ][example-badg-img]
-[Example badge Version][example-badg-img-version]
+[![Example badge ][example-badg-img]][example-badg-img]
+[![Example badge Version][example-badg-img-version]][example-badg-img-versio]
 
   - Go to [badgen.net](https://badgen.net/) for more badges 
   
