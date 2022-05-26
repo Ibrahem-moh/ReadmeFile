@@ -2,10 +2,11 @@
 
 # Description
 
-Base readme.md file to use for any project.
+## Base readme.md file to use for any project.
 [![Example badge ][example-badg-img]]
 [![Example badge Version][example-badg-img-version]]
-  Go here for more badges [badgen.net](https://badgen.net/)
+
+  - Go here for more badges [badgen.net](https://badgen.net/)
   
  
 ```js
@@ -90,4 +91,4 @@ You can change this license
 
 [logo-img]: https://raw.githubusercontent.com/Ibrahem-moh/ReadmeFile/master/img/Turn-coffee-into-code.svg
 [example-badg-img]: https://badgen.net/badge/Wellocme/ExamleBadge/green
-[example-badg-img-ver]: https://badgen.net/badge/Version/1.0/green
+[example-badg-img-version]: https://badgen.net/badge/Version/1.0/green
