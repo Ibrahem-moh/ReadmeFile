@@ -1,5 +1,5 @@
-[![ Logo](https://raw.githubusercontent.com/Ibrahem-moh/ReadmeFile/master/img/Turn-coffee-into-code.svg)](logo link)
- 
+[![ Logo](https://raw.githubusercontent.com/Ibrahem-moh/ReadmeFile/master/img/Turn-coffee-into-code.svg)](logo-link)
+<img src="https://raw.githubusercontent.com/Ibrahem-moh/ReadmeFile/master/img/Turn-coffee-into-code.svg" width="48">
 # Description
 
 ## Base readme.md file to use for any project.
@@ -92,3 +92,4 @@ You can change this license
 [logo-img]: https://raw.githubusercontent.com/Ibrahem-moh/ReadmeFile/master/img/Turn-coffee-into-code.svg
 [example-badg-img]: https://badgen.net/badge/Wellocme/ExamleBadge/green
 [example-badg-img-version]: https://badgen.net/badge/Version/1.0/green
+[logo-link]: https://example-linke.com
