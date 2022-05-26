@@ -1,4 +1,3 @@
-[![ Logo](https://raw.githubusercontent.com/Ibrahem-moh/ReadmeFile/master/img/Turn-coffee-into-code.svg)](logo-link)
 <img src="https://raw.githubusercontent.com/Ibrahem-moh/ReadmeFile/master/img/Turn-coffee-into-code.svg" width="48">
 # Description
 
