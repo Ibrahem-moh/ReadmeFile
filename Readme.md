@@ -4,8 +4,8 @@
 
 Base readme.md file to use for any project.
 
-  [![Example badge ][example-badg-img]][npm-url]
-  [![Example badge Version][example-badg-img-version]][npm-url]
+  [Example badge ][example-badg-img][npm-url]
+  [Example badge Version][example-badg-img-version][npm-url]
   Go here for more badges [badgen.net](https://badgen.net/)
   
  
@@ -89,6 +89,6 @@ $ git clone add repo url
 You can change this license
   [MIT](LICENSE)
 
-[logo-img]: https://badgen.net/appveyor/ci/dougwilson/express/master?label=windows
+[logo-img]: https://raw.githubusercontent.com/Ibrahem-moh/ReadmeFile/master/img/Turn-coffee-into-code.svg
 [example-badg-img]: https://badgen.net/badge/Wellocme/ExamleBadge/green
 [example-badg-img-ver]: https://badgen.net/badge/Version/1.0/green
