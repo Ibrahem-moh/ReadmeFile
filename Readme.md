@@ -3,9 +3,10 @@
 # Description
 
 Base readme.md file to use for any project.
+  [![NPM Version][npm-version-image]][npm-url]
 
-  [Example badge ][example-badg-img][npm-url]
-  [Example badge Version][example-badg-img-version][npm-url]
+[  ![Example badge ][example-badg-img]]
+[ ! [Example badge Version][example-badg-img-version]]
   Go here for more badges [badgen.net](https://badgen.net/)
   
  
