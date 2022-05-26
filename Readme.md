@@ -3,10 +3,10 @@
 # Description
 
 ## Base readme.md file to use for any project.
-[![Example badge ][example-badg-img]]
-[![Example badge Version][example-badg-img-version]]
+[Example badge ][example-badg-img]
+[Example badge Version][example-badg-img-version]
 
-  - Go here for more badges [badgen.net](https://badgen.net/)
+  - Go to [badgen.net](https://badgen.net/) for more badges 
   
  
 ```js
